@@ -52,6 +52,7 @@ export default async function Home() {
             flag={value.flags.svg}
             flagAlt={value.flags.alt} 
           
+            
           />
          
         ))}
