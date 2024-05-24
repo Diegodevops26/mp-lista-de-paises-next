@@ -35,5 +35,5 @@ export default function RootLayout({
       </main>
     </body>
   </html>
-  )
+  );
 }
